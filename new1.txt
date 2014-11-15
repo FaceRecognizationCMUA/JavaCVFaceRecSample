@@ -1,0 +1,10 @@
+1 personA test_image/s1/1.pgm
+1 personA test_image/s1/2.pgm
+1 personA test_image/s1/3.pgm
+1 personA test_image/s1/4.pgm
+1 personA test_image/s1/5.pgm
+1 personA test_image/s1/6.pgm
+1 personA test_image/s1/7.pgm
+1 personA test_image/s1/8.pgm
+1 personA test_image/s1/9.pgm
+1 personA test_image/s1/10.pgm

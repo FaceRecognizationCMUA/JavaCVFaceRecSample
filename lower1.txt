@@ -1,0 +1,2 @@
+1 personA test_image/2.pgm
+
